@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "first post",
+      "text": "using JSON server"
+    },
+    {
+      "id": 2,
+      "title": "second post",
+      "text": "using JSON server"
+    }
+  ]
+}
